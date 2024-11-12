@@ -8,7 +8,7 @@ version = "0.1.0"
 authors = [
     {name = "Ameer fayiz", email = "amrjets@gmail.com"},
 ]
-description = "A enhanced simple parallel processing pipeline implementation in Python"
+description = "A enhanced multi-worker parallel processing pipeline implementation in Python "
 readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
